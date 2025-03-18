@@ -1,0 +1,11 @@
+google-play-scrapper==1.2.7
+mkl-service==2.4.0
+numpy==2.2.2
+pandas=2.2.3
+python-dateutil==2.9.0
+pytz=2025.1
+Sastrawi==1.0.1
+setuptools==72.1.0
+six==1.17.0
+tzdata==2025.1
+whee;==0.45.1
